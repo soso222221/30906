@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import plotly.express as px  # 여기 수정
+
 
 # 앱 제목
 st.set_page_config(page_title="데이터 시각화 웹앱", layout="wide")
